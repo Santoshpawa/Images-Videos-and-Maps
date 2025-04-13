@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+div{
+    width: 600px;
+    height:400px;
+    padding: 20px;
+    margin-top: 40px;
+    margin-bottom:40px;
+    border: 2px solid;
+    
+}
+
+
+iframe{
+    width:600px;
+    height: 350px;
+}
